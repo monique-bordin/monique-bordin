@@ -4,6 +4,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=FFB6C1&font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi,+My+name+is+Monique+Bordin+👋;+Actuary+studying+Data+Science;Be+Welcome!;" />
 </h1>
 
+### Data Science Training:
+<img src="https://lms.ebaconline.com.br/_nuxt/img/ebac-logo.8292196.svg" width="70">
+
 ### Main Skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
